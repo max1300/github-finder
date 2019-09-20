@@ -1,0 +1,21 @@
+[{
+    "login": "NAR",
+    "id": 281299,
+    "node_id": "MDQ6VXNlcjI4MTI5OQ==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/281299?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/NAR",
+    "html_url": "https://github.com/NAR",
+    "followers_url": "https://api.github.com/users/NAR/followers",
+    "following_url": "https://api.github.com/users/NAR/following{/other_user}",
+    "gists_url": "https://api.github.com/users/NAR/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/NAR/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/NAR/subscriptions",
+    "organizations_url": "https://api.github.com/users/NAR/orgs",
+    "repos_url": "https://api.github.com/users/NAR/repos",
+    "events_url": "https://api.github.com/users/NAR/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/NAR/received_events",
+    "type": "User",
+    "site_admin": false,
+    "score": 442.57434
+  }]

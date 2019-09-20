@@ -1,0 +1,63 @@
+body{
+    background-color: #C0C0C0;
+}
+.ulAffichage{
+    display: inline;
+}
+
+.ulAffichage img{
+    border-radius: 70%;
+   
+    width: 150px;
+    height: 150px;
+    padding-top: 10px;
+    
+    
+}
+
+.liAffichage{
+
+    border: 2px solid;
+    border-color: black;
+    border-radius: 15px;
+    margin-bottom: 5px;
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    list-style: none;
+    background-color: #DCDCDC;
+
+    
+}
+
+.liAffichage p{
+    display: inline-block;
+    margin-left: 5%;
+    color: goldenrod;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+
+.recherche{
+    text-align: center;
+
+}
+
+
+.barre{
+    width: 600px;
+    height: 90px;
+    border-radius: 15px;
+    font-size: 35px;
+    background-color: rgba(128, 128, 128, 0.219);
+    border-color: whitesmoke;
+    text-align: center;
+    color: black;
+     
+}
+
+/* img{
+    border-radius: 30%;
+    
+} */
