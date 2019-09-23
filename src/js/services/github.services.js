@@ -1,6 +1,6 @@
 import {User} from '../models/User'
 
-const tokenGithub = 'a95dc5fab6aace11049dece1de2977021b91e54a';
+//mettre un token 
 var myHeaders = new Headers();
 myHeaders.append("Authorization", `token ${tokenGithub}`);
 
